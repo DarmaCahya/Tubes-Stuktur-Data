@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1672990221 source:c:\users\darma cahya\downloads\tugas besar\tugas besar\main.cpp
+	<iostream>
+	"Tubes.h"
+
+1672990308 source:c:\users\darma cahya\downloads\tugas besar\tugas besar\tubes.cpp
+	"Tubes.h"
+
+1672974056 c:\users\darma cahya\downloads\tugas besar\tugas besar\tubes.h
+	<iostream>
+
